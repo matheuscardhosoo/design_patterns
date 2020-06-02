@@ -1,3 +1,3 @@
 # Behavioral Patterns[¹]
 
-[¹]: references.md
+[¹]: ../references.md

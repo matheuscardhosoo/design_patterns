@@ -27,8 +27,8 @@
 
 ## Classification
 
-- [Behavioral patterns](behavioral_patterns.md)
-- [Creational patterns](creational_patterns.md)
-- [Structural patterns](structural_patterns.md)
+- [Behavioral patterns](behavioral_patterns/behavioral_patterns.md)
+- [Creational patterns](creational_patterns/creational_patterns.md)
+- [Structural patterns](structural_patterns/structural_patterns.md)
 
 [¹]: references.md
