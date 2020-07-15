@@ -5,12 +5,13 @@
 - General and repeatable solution to common problems in software design.
 - High-level description or template to be adapted for a particular situation.
 - Consist of:
+
   - **Intent**: brief description of the problem and the solution.
   - **Motivation**: dive description of the problem and how it will be solved.
   - **Structure**: complete organization (classes, relations and interactions).
-  - **Code examples**: easy examples.
   - **Applicability**: development cost and complexity analysis.
   - **Implementation steps**: step by step implementation description.
+  - **Code examples**: easy examples.
 
 ## Criticism
 
@@ -30,5 +31,7 @@
 - [Behavioral patterns](behavioral_patterns/behavioral_patterns.md)
 - [Creational patterns](creational_patterns/creational_patterns.md)
 - [Structural patterns](structural_patterns/structural_patterns.md)
+
+___
 
 [¹]: references.md
