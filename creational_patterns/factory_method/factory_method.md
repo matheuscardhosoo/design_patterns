@@ -146,6 +146,12 @@ def client_code(creator: Creator) -> None:
 
 ### Output
 
+- Execute the following script to run the example:
+
+```shell
+➜  design_patterns python3 main.py
+```
+
 ```plain
 App: Launched with the ConcreteCreator1.
 Client: I'm not aware of the creator's class, but it still works.
@@ -153,7 +159,7 @@ Creator: The same creator's code has just worked with {Result of the ConcretePro
 
 App: Launched with the ConcreteCreator2.
 Client: I'm not aware of the creator's class, but it still works.
-Creator: The same creator's code has just worked with {Result of the ConcreteProduct2}%  
+Creator: The same creator's code has just worked with {Result of the ConcreteProduct2}
 ```
 
 ___
