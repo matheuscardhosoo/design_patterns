@@ -4,6 +4,10 @@ Object creation mechanisms.
 
 ## Methods
 
-- [**Factory Method**](factory_method.md)
+- [**Factory Method**](factory_method/factory_method.md)
+
+___
+
+⬅️ [**Home**](../README.md)
 
 [¹]: ../references.md
